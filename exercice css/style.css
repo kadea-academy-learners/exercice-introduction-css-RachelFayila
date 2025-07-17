@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(238, 238, 238);
+    font-family: Arial, sans-serif;  
+}
+
+header{
+    text-align: center;
+}
+
+
+.bio-figure{
+    text-align: center;
+  justify-content: center;
+    background-color: white;
+    margin: 0;
+    width:auto;
+    height: auto;
+}
+
+.image-caption{
+  padding: 15px;
+}
+
+footer{
+    text-align: center;
+}
+
+.timeline-title{
+    text-align: center;
+}
+
+.quote-author{
+    text-align: center;
+}
+
+.quote{
+    text-align: center;
+    width: 400px;
+    margin: 0 auto;
+    padding-left: 20px;
+    
+}
+
+
+.timeline{
+   width: 400px;
+    margin: 0 auto;
+    padding-left: 20px;
+}
+
+.timeline li {
+  margin-bottom: 10px;
+}
+
